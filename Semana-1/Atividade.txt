@@ -1,1 +1,2 @@
-
+Qual é a sua ideia de Computação Visual?
+Acredito que a disciplina irá abordar tópicos focados em processamento de imagens, objetos 3D, processamento gráfico, renderização, tudo isso relacionado a programas no computador
