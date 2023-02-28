@@ -1,0 +1,50 @@
+João Pedro Bianchini Ramos - 32087411 
+Victor Costa Nova Alexandre - 32052960 
+Lucas Tonin Leite - 32089759
+
+Computação Gráfica
+
+Uma aplicação que nos interessamos muito foi o aprendizado da anatomia topográfica e estrutural humana através de modelagem de objetos digitais das estruturas humanas em computação gráfica 3D. Isso torna o aprendizado completo e super eficaz ao nosso ver, já que o estudante poderá analisar por completo as estruturas físicas dos seres humanos, com o auxilio da maquina até mesmo criar simulações de nódulos e outros tipos de doenças para examinar muito visualmente seus efeitos.
+
+A computação gráfica vai muito além do seu grande potencial educacional na área de medicina ela pode ser útil até mesmo na arqueologia. O artigo “Computação gráfica e arqueologia urbana: o caso de Bracara Augusta” criou uma representação virtualmente da cidade de Bracara Augusta e sua evolução em decorrer dos séculos servindo de ferramenta de investigação aos peritos que têm de estudar os dados arqueológicos.
+
+Com tudo, a computação gráfica, como o nome sugere, é a criação de objetos gráficos em computador, sendo capaz de modelarmos de forma didática e interativa aspectos do mundo a nossa volta, servindo tanto para o entretenimento através de jogos e filmes até mesmo para fins educacionais, podendo ser aplicados em escolas e universidades. Com o passar dos anos houve uma grande evolução dessa área e os projetos para o futuro são promissores.
+
+
+
+Processamento de Imagens 
+
+Os recursos presentes em um sistema de processamento de imagens na sua forma genérica abrange indispensáveis operações em que se pode efetuar sobre uma imagem, como: aquisição, armazenamento, processamento e exibição.
+
+Uma aplicação que nos chamou atenção foi o uso de imagens no diagnóstico médico e processamento de imagens de novos equipamentos quanto a maior facilidade de interpretação de imagens produzidas por equipamentos mais antigos, como por exemplo o de raio X. 
+
+Na área biológica, a capacidade de processar imagens obtidas de microscópios, por exemplo contando o número de determinadas células em uma imagem, facilita o dinamismo de tarefas laboratoriais com alto grau de precisão. O processamento e a interpretação automática de imagens concebidas por satélites contribuem para os trabalhos nas áreas de Geografia, Sensoriamento Remoto, Geoprocessamento e Meteorologia, dentre outras. 
+
+Técnicas de restauração de imagens colaboram  com arqueologistas a recuperar fotos borradas de artefatos raros, já danificados. O uso de robôs compostos de visão artificial em tarefas de controle de qualidade em linhas de produção num cenário de automação industrial.
+
+
+Visão Computacional
+
+Uma das aplicações da visão computacional é em relação ao reconhecimento facial, que atualmente vem crescendo cada vez mais, com o uso em smartphones e aplicativos, além de ser usado  para segurança, autenticação de identidade, análise de emoções e marketing.
+
+Na área de segurança, o reconhecimento facial é utilizado para identificar indivíduos suspeitos em locais públicos, como aeroportos e estádios de futebol. A tecnologia também é utilizada em sistemas de controle de acesso, como para permitir o acesso a edifícios ou salas restritas.
+
+O reconhecimento facial é uma tecnologia que depende do aprendizado de máquina e da visão computacional para funcionar. Os algoritmos de visão computacional são responsáveis por detectar e capturar imagens de rostos de pessoas em locais públicos. Esses dados são então enviados para o sistema de análise, que utiliza algoritmos de reconhecimento para identificar as características faciais únicas de cada indivíduo.
+
+Escolhemos essa aplicação pois é uma tecnologia muito interessante e avançada, que consegue identificar e autenticar pessoas por meio de seus rostos, o que despertou nossa curiosidade. 
+
+
+Bibliografia
+SOBRENOME, Nome Abreviado. Título: subtítulo (se houver). Nome do site, ano. Disponível em: (link). Acesso em: (data).
+
+Lung, C., Homem Virtual (Ser Humano Virtual 3D): A Integração da Computação Gráfica, Impressão 3D e Realidade Virtual para Aprendizado de Anatomia. Fisiologia e Fisiopatologia. revistas.usp.br. jul. 2016.Disponível em: https://doi.org/10.11606/issn.2525-376X.v1i1p7-15.  Acesso em: 27/02/2023
+
+Bernardes, P. J. C. e Martins, M. Computação gráfica e arqueologia urbana: o caso de Bracara Augusta.repositorium.sdum.uminho.pt. 8-Out-2003.Disponível em: https://hdl.handle.net/1822/26637. Acesso em: 27/02/2023
+
+
+Marques, O. Vieira H. Processamento Digital de Imagens.(Livro), 1999. Disponível em:
+http://projetoaprendizagemgrupo4.pbworks.com/w/file/fetch/96395952/Processamento%20Digital%20de%20Imagens.pdf  Acesso em : 27/02/2023.
+
+O que é Visão Computacional e as 10 Principais Aplicações em 2022. Disponível em:https://www.engenhariahibrida.com.br/post/o-que-e-visao-computacional-10-principais-aplicacoes#:~:text=A%20visão%20computacional%20tem%20numerosas,e%20classificação%20inteligente%20de%20culturas. Acesso em : 27/02/2023.
+O que é reconhecimento facial – definição e explicação. Disponível em:https://www.kaspersky.com.br/resource-center/definitions/what-is-facial-recognition Acesso em : 27/02/2023.
+
