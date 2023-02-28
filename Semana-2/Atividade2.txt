@@ -11,7 +11,15 @@ A computação gráfica vai muito além do seu grande potencial educacional na �
 Com tudo, a computação gráfica, como o nome sugere, é a criação de objetos gráficos em computador, sendo capaz de modelarmos de forma didática e interativa aspectos do mundo a nossa volta, servindo tanto para o entretenimento através de jogos e filmes até mesmo para fins educacionais, podendo ser aplicados em escolas e universidades. Com o passar dos anos houve uma grande evolução dessa área e os projetos para o futuro são promissores.
 
 
+Processamento de Imagens 
 
+Os recursos presentes em um sistema de processamento de imagens na sua forma genérica abrange indispensáveis operações em que se pode efetuar sobre uma imagem, como: aquisição, armazenamento, processamento e exibição.
+
+Uma aplicação que nos chamou atenção foi o uso de imagens no diagnóstico médico e processamento de imagens de novos equipamentos quanto a maior facilidade de interpretação de imagens produzidas por equipamentos mais antigos, como por exemplo o de raio X. 
+
+Na área biológica, a capacidade de processar imagens obtidas de microscópios, por exemplo contando o número de determinadas células em uma imagem, facilita o dinamismo de tarefas laboratoriais com alto grau de precisão. O processamento e a interpretação automática de imagens concebidas por satélites contribuem para os trabalhos nas áreas de Geografia, Sensoriamento Remoto, Geoprocessamento e Meteorologia, dentre outras. 
+
+Técnicas de restauração de imagens colaboram  com arqueologistas a recuperar fotos borradas de artefatos raros, já danificados. O uso de robôs compostos de visão artificial em tarefas de controle de qualidade em linhas de produção num cenário de automação industrial.
 
 
 
