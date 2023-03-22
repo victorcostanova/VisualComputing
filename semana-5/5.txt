@@ -11,6 +11,8 @@ Para melhorar a qualidade da estimativa de profundidade, os autores usaram o fil
 
 A figura abaixo mostra um exemplo de imagem original e a mesma imagem após a aplicação do filtro de suavização:
 
+
+
 Exemplo de imagem original e imagem após filtro de suavização
 
 
