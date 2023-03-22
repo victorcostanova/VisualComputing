@@ -3,7 +3,7 @@ Victor Costa Nova Alexandre - 32052960
 Lucas Tonin Leite - 32089759
 
 
-Durante nossa pesquisa, encontrei um artigo intitulado "A Self-Organizing Approach to Depth Recovery using Monocular Cues" (Uma Abordagem de Auto-Organização para Recuperação de Profundidade usando Cues Monoculares), de autoria de Liu, C., Chen, W., & Wang, J. (2014), apresentado na conferência IEEE International Conference on Computer Vision Workshops (ICCVW).
+Durante nossa pesquisa, encontramos um artigo intitulado "A Self-Organizing Approach to Depth Recovery using Monocular Cues" (Uma Abordagem de Auto-Organização para Recuperação de Profundidade usando Cues Monoculares), de autoria de Liu, C., Chen, W., & Wang, J. (2014), apresentado na conferência IEEE International Conference on Computer Vision Workshops (ICCVW).
 
 O problema abordado neste trabalho era recuperar informações de profundidade de uma cena 3D a partir de uma única imagem 2D usando pistas ou dicas visuais monoculares, como gradiente de intensidade e textura. A solução proposta pelos autores usava um modelo de auto-organização que combinava pistas visuais para estimar a profundidade da cena.
 
