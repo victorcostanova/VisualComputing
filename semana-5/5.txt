@@ -1,1 +1,26 @@
+João Pedro Bianchini Ramos - 32087411 
+Victor Costa Nova Alexandre - 32052960 
+Lucas Tonin Leite - 32089759
+
+Durante nossa pesquisa, encontrei um artigo intitulado "A Self-Organizing Approach to Depth Recovery using Monocular Cues" (Uma Abordagem de Auto-Organização para Recuperação de Profundidade usando Cues Monoculares), de autoria de Liu, C., Chen, W., & Wang, J. (2014), apresentado na conferência IEEE International Conference on Computer Vision Workshops (ICCVW).
+
+O problema abordado neste trabalho era recuperar informações de profundidade de uma cena 3D a partir de uma única imagem 2D usando pistas ou dicas visuais monoculares, como gradiente de intensidade e textura. A solução proposta pelos autores usava um modelo de auto-organização que combinava pistas visuais para estimar a profundidade da cena.
+
+Para melhorar a qualidade da estimativa de profundidade, os autores usaram o filtro de suavização gaussiano como uma das etapas pré-processamento. O filtro de suavização é usado para suavizar as bordas das imagens e reduzir o ruído, o que pode ajudar a tornar as estimativas de profundidade mais confiáveis e precisas.
+
+A figura abaixo mostra um exemplo de imagem original e a mesma imagem após a aplicação do filtro de suavização:
+
+
+
+
+Exemplo de imagem original e imagem após filtro de suavização
+
+
+Fundamentos de Computação Gráfica - INF2608 - 2013.1, Disponível em: https://web.tecgraf.puc-rio.br/~raquelg/compgrafica/trabalho1.html
+Acesso: 21 março 2023
+
+
+
+Como podemos ver, a imagem suavizada é menos granulada e tem bordas mais suaves em comparação com a imagem original. Isso pode ajudar na detecção de pistas visuais e, consequentemente, melhorar a estimativa de profundidade da cena.
+
 
